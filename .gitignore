@@ -1,0 +1,31 @@
+# --- Python & Dependencies ---
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# --- Secrets & Environment Variables ---
+.env
+.env.local
+.env.*.local
+
+# --- Database Files (Crucial) ---
+*.db
+*.sqlite
+*.sqlite3
+
+# --- Streamlit & Web ---
+.streamlit/
+.DS_Store
+
+# --- IDE & Editors ---
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# --- Logs ---
+*.log
