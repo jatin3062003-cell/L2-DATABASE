@@ -1,0 +1,10 @@
+langchain_azure_ai
+openai
+dotenv
+uvicorn
+flask
+langchain
+langgraph
+langchain-community
+langchain-openrouter
+langchain-azure-ai
